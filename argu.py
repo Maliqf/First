@@ -1,5 +1,6 @@
 import sys
 
+#Get user name password from command
 def main(argv):
     import getopt
     def usage():

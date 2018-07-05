@@ -1,6 +1,7 @@
 import sys
 
 #Get user name password from command
+#This is to test commit
 def main(argv):
     import getopt
     def usage():
